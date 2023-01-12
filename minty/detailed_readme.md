@@ -1,4 +1,4 @@
-# End-to-end description
+# End-to-end description and notes taken while coding out the application
 
 ## Prerequisites
 
